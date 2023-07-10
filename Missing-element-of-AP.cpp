@@ -29,4 +29,6 @@ public:
             high = mid - 1;
     }
     }
+
+    // TIME COMPLEXITY ----> O(logn)
 };
